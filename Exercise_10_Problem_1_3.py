@@ -136,5 +136,7 @@ azabuSum = round(azabu["PTN_2020"].sum())
 # - What was difficult?
 
 # YOUR ANSWER HERE
-
+scale 5. 
+I couldn't understand the meaning of the error.
+I thought it was all difficult.
 # Well done!
